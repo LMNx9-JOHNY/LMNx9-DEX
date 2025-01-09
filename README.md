@@ -3,8 +3,7 @@
 - ToolKit : Encoder/Decoder
 - Developer : [DARK LMNx9](https://t.me/x_LMNx9)
 - Telegram : [Join Channel](https://t.me/TEAM_LMNx9)
-- GitHub : [Visit Profile](https://github.com/LMNx9-JOHNY)
-- Website : [Visit Dev](http://lmnx9.rf.gd)
+- Website : [Visit Now](http://lmnx9.rf.gd)
 
 # App Features :
 
