@@ -9,4 +9,4 @@
 
 ![](https://raw.githubusercontent.com/LMNx9-JOHNY/LMNx9-DEX/refs/heads/main/LMNx9_DEX_v1.0.png)
 
-# [DOWNLOAD NOW]()
+# [DOWNLOAD NOW](https://github.com/LMNx9-JOHNY/LMNx9-DEX/raw/refs/heads/main/LMNx9_DEX.apk)
